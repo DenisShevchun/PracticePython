@@ -25,3 +25,20 @@
 Рис.1.6-1.7 Налаштування SSH-ключей для доступу до акаунту без постійної верифікації
 
 
+
+#TASK-1
+
+![image](https://user-images.githubusercontent.com/83283956/124491114-96967e00-ddbb-11eb-8d6b-9b14c56fc116.png)
+Рис.2.1 Перестановка всіх файлів в папки
+
+![image](https://user-images.githubusercontent.com/83283956/124491393-e412eb00-ddbb-11eb-9598-dbcacc365909.png)
+Рис.2.2 Перевірка змін
+
+![image](https://user-images.githubusercontent.com/83283956/124491496-099ff480-ddbc-11eb-8c3a-81e483412e47.png)
+Рис.2.3 Додавання змін через git add
+
+![image](https://user-images.githubusercontent.com/83283956/124491663-348a4880-ddbc-11eb-824c-b297aea483a6.png)
+Рис.2.4 Commit для попередньо виконаних дій
+
+![image](https://user-images.githubusercontent.com/83283956/124491828-5daad900-ddbc-11eb-8b0b-2d5ff6ef417b.png)
+Рис.2.5 Pull попередніх змін в README.md та push нових в репозиторій
