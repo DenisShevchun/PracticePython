@@ -50,7 +50,7 @@
 #TASK-2
 
 ![image](https://user-images.githubusercontent.com/83283956/125631534-648ce414-85f2-4d9e-969f-d239c8290480.png)
-Рис.3.1 Перерірка та додавання змін через git addd
+Рис.3.1 Перерірка та додавання змін через git add
 
 ![image](https://user-images.githubusercontent.com/83283956/125631712-913410bc-2c2d-42aa-ab58-0b92fafefb03.png)
 Рис.3.2 Commit попередньо виконаних дій та push нових даних
